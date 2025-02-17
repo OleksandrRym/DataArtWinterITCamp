@@ -1,0 +1,2 @@
+DataArt project 
+-> npm install
